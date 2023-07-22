@@ -1,5 +1,5 @@
 const video = document.getElementById('video');
-const button = document.getElementById('button');
+const button = document.getElementById('btn');
 
 async function selectMediaStream() {
     try {
